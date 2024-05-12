@@ -1,0 +1,1 @@
+update from plantas where id=2 insert into planta (Pothos);
